@@ -52,4 +52,3 @@
 
 ---
 
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/newKaramali/newKaramali/output/pacman-contribution-graph.svg">
